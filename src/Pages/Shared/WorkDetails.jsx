@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React from 'react';
-import chooseMeal from '../../image/choose meal.jpg'
-import delivery from '../../image/deliver.png'
+import chooseMeal from '../../image/choose meal.jpeg'
+import delivery from '../../image/deliver.jpeg'
 import enjoyMeal from '../../image/enjoy meal.jpeg'
 const WorkDetails = () => {
     return (
@@ -26,7 +26,7 @@ const WorkDetails = () => {
                 </div>
             </div>
             <div className="card w-96 glass mt-16">
-                <figure><img className='w-[100%]' src={enjoyMeal} alt="car!"/></figure>
+                <figure><img className='w-[50%]' src={enjoyMeal} alt="car!"/></figure>
                 <div className="card-body">
                     <h2 className=" text-center text-xl font-bold">Cook & Enjoy</h2>
                     <p className=" text-center">Eat Your freshy cook meal</p>
