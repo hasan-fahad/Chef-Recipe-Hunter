@@ -3,7 +3,7 @@ import React, { useContext } from 'react';
 import banner1 from '../../../src/image/banner1.jpeg'
 import banner2 from '../../../src/image/banner2.jpeg'
 import banner3 from '../../../src/image/banner3.jpeg'
-import banner4 from '../../../src/image/banner4.jpg'
+import banner4 from '../../../src/image/banner4.jpeg'
 import ChefCategory from './chefCategory';
 import Footer from './Footer';
 import { AuthContext } from '../../providers/AuthProvider';
@@ -38,8 +38,8 @@ const Home = () => {
                         </div> 
                         </div>
                     <div>
-                    <h1 className="text-5xl font-bold">Food Recipe Blog!</h1>
-                    <p className="py-6">Cooking, cookery, or culinary arts is the art, science and craft of using heat to improve the palatability, digestibility, nutrition, or safety of food.</p>
+                    <h1 className="text-5xl font-bold">Food Blog!</h1>
+                    <p className="py-6">Eat, drink and live free. There’s no telling what might happen tomorrow. Eat whatever you want, and if someone tries to lecture you about your weight, eat them too!</p>
                     <button className="btn btn-primary">Get Started</button>
 
                     </div>
