@@ -7,7 +7,7 @@ const ChefCategory = () => {
     const [chefdata, setChefdata] = useState([])
     const [showAll, setShowAll] = useState(false)
     useEffect(() => {
-        fetch('https://chef-recipe-hunter-server-hasan-fahad.vercel.app/chefdata')
+        fetch('https://chef-recipe-hunter-server-hasan-fahad.vercel.app//chefdata')
         .then(res => res.json())
         .then(data => setChefdata(data))
         .catch(error => console.error(error))
