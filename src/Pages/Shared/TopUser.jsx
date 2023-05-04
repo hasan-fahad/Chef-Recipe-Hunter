@@ -4,7 +4,7 @@ import user1 from '../../image/user1.jpeg'
 import user2 from '../../image/user2.jpeg'
 import user3 from '../../image/user3.jpeg'
 import user4 from '../../image/user4.jpeg'
-import user5 from '../../image/user5.png'
+import user5 from '../../image/user5.jpeg'
 const TopUser = () => {
     return (
         <div className='mt-16'>
@@ -20,7 +20,7 @@ const TopUser = () => {
             </div>
             <div>
                 <img className='w-28 h-28 rounded-full' src={user3} alt="" />
-                <p className='ms-6 mt-4 font-bold'>Niloy</p>
+                <p className='ms-6 mt-4 font-bold'>Jhon</p>
             </div>
             <div>
                 <img className='w-28 h-28 rounded-full' src={user4} alt="" />
