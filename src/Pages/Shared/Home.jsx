@@ -1,8 +1,8 @@
 /* eslint-disable no-unused-vars */
 import React, { useContext } from 'react';
 import banner1 from '../../../src/image/banner1.jpeg'
-import banner2 from '../../../src/image/banner2.jpg'
-import banner3 from '../../../src/image/banner3.jpg'
+import banner2 from '../../../src/image/banner2.jpeg'
+import banner3 from '../../../src/image/banner3.jpeg'
 import banner4 from '../../../src/image/banner4.jpg'
 import ChefCategory from './chefCategory';
 import Footer from './Footer';
