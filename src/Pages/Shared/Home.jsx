@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React, { useContext } from 'react';
-import banner1 from '../../../src/image/banner1.jpg'
+import banner1 from '../../../src/image/banner1.jpeg'
 import banner2 from '../../../src/image/banner2.jpg'
 import banner3 from '../../../src/image/banner3.jpg'
 import banner4 from '../../../src/image/banner4.jpg'
