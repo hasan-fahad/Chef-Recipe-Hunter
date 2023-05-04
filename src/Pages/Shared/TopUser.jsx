@@ -24,11 +24,11 @@ const TopUser = () => {
             </div>
             <div>
                 <img className='w-28 h-28 rounded-full' src={user4} alt="" />
-                <p className='ms-6 mt-4 font-bold'>Tonim</p>
+                <p className='ms-6 mt-4 font-bold'>Alexis</p>
             </div>
             <div>
                 <img className='w-28 h-28 rounded-full' src={user5} alt="" />
-                <p className='ms-8 mt-4 font-bold'>Sami</p>
+                <p className='ms-8 mt-4 font-bold'>Donald</p>
             </div>
         </div>
         </div>
